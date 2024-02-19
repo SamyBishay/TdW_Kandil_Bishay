@@ -1,0 +1,7 @@
+form{
+    display: grid;
+    grid-area: main;
+    grid-column-start: auto;
+    grid-column-end: auto;
+    grid-template-columns: 180px 180px;
+}
